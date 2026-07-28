@@ -8,6 +8,8 @@ A concise, practical guide for developers. Part of the SystemCraft™ Companion 
 
 ## About this Repository
 
+<img align="right" width="180" src="preview/cover-thumbnail.png" alt="VS Code Essentials Companion Guide cover">
+
 This repository is the companion to the **VS Code Essentials Companion Guide** — a practical, no-fluff reference for developers who want to actually use VS Code efficiently, not just click around it.
 
 It's free and open: a cheat sheet, quick-reference shortcut tables (Win/Linux and Mac side by side), worked examples, hands-on exercises, and diagrams covering navigation, multi-cursor editing, search and replace, tasks, source control, and debugging.
@@ -66,6 +68,7 @@ vscode-essentials/
 │   └── settings-precedence.md
 └── preview/
     ├── cover.png
+    ├── cover-thumbnail.png
     └── page-spread.png
 ```
 
