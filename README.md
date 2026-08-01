@@ -28,9 +28,11 @@ It's free and open: a cheat sheet, quick-reference shortcut tables (Win/Linux an
 
 ## Get the Full Companion Guide
 
-| Format | Where to Buy | Price |
-| ------ | ------------ | ----- |
-| PDF    | [Payhip](https://payhip.com/b/mw3vu) | $9.99 |
+| Format     | Where to Buy | Price |
+| ---------- | ------------ | ----- |
+| PDF + EPUB | [Payhip](https://payhip.com/b/mw3vu) | $9.99 |
+
+Use code **GITHUB10** at checkout for 10% off. Learn more at [systemcraftpress.com](https://systemcraftpress.com/guides/vscode-essentials/).
 
 The full guide adds the material this repo doesn't cover for free: the complete 11-section walkthrough, scenario-based troubleshooting for common panic moments, and the full glossary.
 
